@@ -1,12 +1,6 @@
 
 # Sistema de Seguimiento de Taller Mecanico 
 
-## Integrantes Grupo 12:
-- Alexis Concepcion
-- Leandro Melo
-- Valentina Cuello 
-- Sofia de Proença
-
 ## Funcionalidad:
 
 ### Descripcion general del Proyecto:
@@ -50,20 +44,10 @@ Este proyecto tiene como objetivo desarrollar un sistema de gestión para taller
 - Generacion de estadisticas como cantidad de vehiculos, tipo de trabajo realizado, cantidad de vehiculos de alguna marca o modelo, etc.
 - Solicitudes de compra de repuestos.
 
-### Que no incluye:
-
-- Gestion de agenda o turnos.
-- Presupuestos.
-- Facturacion.
-
-
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 
-
-
-Informacion sobre Markdown [aca](https://www.markdownguide.org/cheat-sheet/)
 
 # Este repositorio contiene el proyecto final de la materia Programacion 1 de UADE.
 
@@ -104,9 +88,3 @@ No hay pasos adicionales que realizar en este caso.
 * [Visual Studio Code](https://code.visualstudio.com/download) - IDE
 * Apuntes de la materia - Consultar en el sitio web de la [universidad](https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/licenciatura-en-gestion-de-tecnologia-de-la-informacion/)
 
-## Autores ✒️
-
-* **Alexis Concepcion** - *Trabajo Inicial* - [alexisdc](https://github.com/4l3x1sdc)
-* **Leandor Melo** - *Trabajo Inicial* - [LeandroMelo1603](https://github.com/LeandroMelo1603)
-* **Valentina Cuello** - *Trabajo Inicial* - [valecue](https://github.com/valecue)
-* **Sofia DeProenca** - *Trabajo Inicial* - [sdeproenca](https://github.com/sdeproenca)
