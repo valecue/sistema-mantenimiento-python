@@ -1,0 +1,204 @@
+{
+    "NXT432": [
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-05-26 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Posici\u00f3n)",
+            "fecha": "2024-09-19 14:11:02"
+        },
+        {
+            "descripcion": "Control presion neumaticos",
+            "fecha": "2024-11-19 12:08:39"
+        }
+    ],
+    "HDC654": [
+        {
+            "descripcion": "Recarga Aire acondicionado",
+            "fecha": "2024-09-06 14:11:02"
+        },
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-10-07 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Altas)",
+            "fecha": "2024-11-13 14:11:02"
+        }
+    ],
+    "PEU123": [
+        {
+            "descripcion": "Cambio luz freno trasero",
+            "fecha": "2024-06-12 14:11:02"
+        },
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-05-29 14:11:02"
+        },
+        {
+            "descripcion": "Alineaci\u00f3n y Balanceo",
+            "fecha": "2024-09-20 14:11:02"
+        }
+    ],
+    "KIA543": [
+        {
+            "descripcion": "Cambio Lamparas delanteras (Posici\u00f3n)",
+            "fecha": "2024-09-19 14:11:02"
+        },
+        {
+            "descripcion": "Cambio escobillas",
+            "fecha": "2024-08-11 14:11:02"
+        },
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-11-16 14:11:02"
+        },
+        {
+            "descripcion": "Cambio luces \u00f3pticas frontales",
+            "fecha": "2024-05-26 14:11:02"
+        },
+        {
+            "descripcion": "Cambio escobillas",
+            "fecha": "2024-05-27 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Altas)",
+            "fecha": "2024-11-04 14:11:02"
+        },
+        {
+            "descripcion": "Cambio luz freno trasero",
+            "fecha": "2024-11-18 14:11:02"
+        }
+    ],
+    "AB123CD": [
+        {
+            "descripcion": "Alineaci\u00f3n y Balanceo",
+            "fecha": "2024-07-29 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Posici\u00f3n)",
+            "fecha": "2024-07-21 14:11:02"
+        },
+        {
+            "descripcion": "Cambio escobillas",
+            "fecha": "2024-08-14 14:11:02"
+        },
+        {
+            "descripcion": "Cambio luz freno trasero",
+            "fecha": "2024-09-17 14:11:02"
+        },
+        {
+            "descripcion": "verificacion presion neumaticos",
+            "fecha": "2024-11-19 15:15:38"
+        }
+    ],
+    "CHT123": [
+        {
+            "descripcion": "Recarga Aire acondicionado",
+            "fecha": "2024-11-17 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Posici\u00f3n)",
+            "fecha": "2024-06-07 14:11:02"
+        },
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-11-07 14:11:02"
+        },
+        {
+            "descripcion": "Alineaci\u00f3n y Balanceo",
+            "fecha": "2024-07-17 14:11:02"
+        }
+    ],
+    "MNM323": [
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-08-02 14:11:02"
+        },
+        {
+            "descripcion": "Cambio escobillas",
+            "fecha": "2024-05-27 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Altas)",
+            "fecha": "2024-09-21 14:11:02"
+        },
+        {
+            "descripcion": "Cambio luz freno trasero",
+            "fecha": "2024-06-24 14:11:02"
+        },
+        {
+            "descripcion": "Alineaci\u00f3n y Balanceo",
+            "fecha": "2024-10-01 14:11:02"
+        },
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-10-21 14:11:02"
+        }
+    ],
+    "RLC998": [
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-11-24 14:11:02"
+        },
+        {
+            "descripcion": "Recarga Aire acondicionado",
+            "fecha": "2024-11-19 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Altas)",
+            "fecha": "2024-11-12 14:11:02"
+        }
+    ],
+    "RWP456": [
+        {
+            "descripcion": "Cambio escobillas",
+            "fecha": "2024-11-21 14:11:02"
+        },
+        {
+            "descripcion": "Alineación y Balanceo",
+            "fecha": "2024-11-20 14:11:02"
+        }
+    ],
+    "GBV789": [
+        {
+            "descripcion": "Cambio luces ópticas frontales",
+            "fecha": "2024-11-22 14:11:02"
+        },
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-11-23 14:11:02"
+        }
+    ],
+    "TYC567": [
+        {
+            "descripcion": "Alineación y Balanceo",
+            "fecha": "2024-11-25 14:11:02"
+        },
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-11-18 14:11:02"
+        }
+    ],
+    "MZC112": [
+        {
+            "descripcion": "Cambio escobillas",
+            "fecha": "2024-11-26 14:11:02"
+        },
+        {
+            "descripcion": "Cambio Lamparas delanteras (Posición)",
+            "fecha": "2024-11-27 14:11:02"
+        }
+    ],
+    "HYC987": [
+        {
+            "descripcion": "Cambio aceite filtro",
+            "fecha": "2024-11-28 14:11:02"
+        },
+        {
+            "descripcion": "Recarga Aire acondicionado",
+            "fecha": "2024-11-29 14:11:02"
+        }
+    ]
+}

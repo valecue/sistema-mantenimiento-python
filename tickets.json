@@ -1,0 +1,32 @@
+{
+    "1": {
+        "descripcion": "Usuario JOSE bloqueado",
+        "estado": "CERRADO",
+        "fecha": "2024-11-13 14:30:00"
+    },
+    "2": {
+        "descripcion": "Cambio de titular para veh\u00edculo AC125SH. Nuevo titular: Juan P\u00e9rez.",
+        "estado": "ABIERTO",
+        "fecha": "2024-11-15 14:32:00"
+    },
+    "3": {
+        "descripcion": "Sugerencia para mejorar la interfaz de usuario",
+        "estado": "ABIERTO",
+        "fecha": "2024-11-16 14:35:00"
+    },
+    "4": {
+        "descripcion": "La aplicacion es horrible",
+        "estado": "ABIERTO",
+        "fecha": "2024-11-18 03:02:40"
+    },
+    "5": {
+        "descripcion": "Cambio de titularidad",
+        "estado": "CERRADO",
+        "fecha": "2024-11-18 23:45:54"
+    },
+    "6": {
+        "descripcion": "permite carga de kilometraje negativo",
+        "estado": "CERRADO",
+        "fecha": "2024-11-26 21:01:04"
+    }
+}
